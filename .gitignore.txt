@@ -1,0 +1,15 @@
+# Eclipse 관련 파일 제외
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# 빌드 폴더 제외
+build/
