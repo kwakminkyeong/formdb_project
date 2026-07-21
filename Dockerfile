@@ -1,3 +1,3 @@
 FROM tomcat:9.0
-COPY formdb.war /usr/local/tomcat/webapps/ROOT.war
+COPY insertForm.war /usr/local/tomcat/webapps/ROOT.war
 EXPOSE 8080
